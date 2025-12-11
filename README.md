@@ -11,8 +11,6 @@
 
 ## 🔎​ About Sploit
 
-Sploit is a digital store with over 2 years of experience, focused on providing virtual products in a fast, organized, and reliable way. Our priority is to deliver a professional, transparent, and efficient experience for every customer.
-
 - 🕒 Over **2 years** in operation
 - 📦 More than **10,000 products sold**
 - ⭐ Over **1,000 satisfied customers** with positive feedback
@@ -21,14 +19,16 @@ Sploit is a digital store with over 2 years of experience, focused on providing 
 
 ---
 
-## 🎯 Mission & Vision
+## 👥 Ownership & Team
 
-Sploit aims to provide a seamless and trustworthy digital shopping experience. Our vision is to remain a leading brand in digital product delivery through efficiency, reliability, and customer-focused service.
 
-- 💼 **Professional operations** designed for consistency
-- 🔍 **Transparency-first mindset**
-- 🤝 **Long-term customer relationships** as our core focus
-- 📊 **Scalable infrastructure** to handle increasing demand
+### **Founders**
+- **kD**
+- **Gonzah**
+
+### **Developers**
+- **Adrian** 
+- **Bazzel**
 
 ---
 
@@ -38,7 +38,5 @@ Sploit aims to provide a seamless and trustworthy digital shopping experience. O
 
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sploit.store/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FDAvz7vWB9)
-
-</div>
 
 
